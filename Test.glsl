@@ -1,2 +1,2 @@
-test
-faf
+#ifdfn VERTRX SHADER
+#endif
