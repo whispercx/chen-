@@ -1,2 +1,2 @@
-#ifdfn VERTRX SHADER
+#ifdef VERTRX SHADER
 #endif
